@@ -7,7 +7,10 @@ int ex3() {
     int first8 = (input & 0b1111111100000000) >> 8; // take first 8 as they are and shift right by 8, because without shifting we would have 8 0s at the end
     int second8 = (input & 0b11111111); // take last 8
 
-    printf(first8 == second8 ? "true\n" : "false\n");
+    printf(
+        "the first 8 bits are%s the same as the second 8 bits\n",
+        first8 == second8 ? "" : "n't"
+    );
 
     return 0;
 }

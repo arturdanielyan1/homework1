@@ -1,8 +1,7 @@
 #include <stdio.h>
-#include <math.h>
 
 int main() {
-    ex4();
+    ex10();
 
     return 0;
 }

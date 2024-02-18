@@ -128,10 +128,15 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="bits.c" />
+    <ClCompile Include="ex10_arrSequentialBInary.c" />
     <ClCompile Include="ex1_OnesInRange.c" />
     <ClCompile Include="ex2_FiveBinaryPresence.c" />
     <ClCompile Include="ex3_EightBitAlign.c" />
     <ClCompile Include="ex4_SymetricalBits.c" />
+    <ClCompile Include="ex5_arrOnesBits.c" />
+    <ClCompile Include="ex6_arrFiveBinaryPresence.c" />
+    <ClCompile Include="ex7_arrEightBitsAlign.c" />
+    <ClCompile Include="ex8_arrSymetricalBits.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
