@@ -1,2 +1,3 @@
-﻿  ex10_arrSequentialBInary.c
+﻿  bits.c
+C:\D\University\C\bits\bits\bits.c(4,5): warning C4013: 'ex10' undefined; assuming extern returning int
   bits.vcxproj -> C:\D\University\C\bits\x64\Debug\bits.exe

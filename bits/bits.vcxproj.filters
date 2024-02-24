@@ -45,5 +45,8 @@
     <ClCompile Include="ex10_arrSequentialBInary.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="ex9_groupByOnesCount.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

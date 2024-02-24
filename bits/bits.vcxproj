@@ -137,6 +137,7 @@
     <ClCompile Include="ex6_arrFiveBinaryPresence.c" />
     <ClCompile Include="ex7_arrEightBitsAlign.c" />
     <ClCompile Include="ex8_arrSymetricalBits.c" />
+    <ClCompile Include="ex9_groupByOnesCount.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
