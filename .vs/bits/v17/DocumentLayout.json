@@ -3,24 +3,8 @@
   "WorkspaceRootPath": "C:\\D\\University\\C\\bits\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2443DD55-8051-4DD4-AC6C-ED6A6300168C}|bits\\bits.vcxproj|C:\\D\\University\\C\\bits\\bits\\ex9_groupByOnesCount.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{2443DD55-8051-4DD4-AC6C-ED6A6300168C}|bits\\bits.vcxproj|solutionrelative:bits\\ex9_groupByOnesCount.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2443DD55-8051-4DD4-AC6C-ED6A6300168C}|bits\\bits.vcxproj|C:\\D\\University\\C\\bits\\bits\\ex10_arrSequentialBInary.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{2443DD55-8051-4DD4-AC6C-ED6A6300168C}|bits\\bits.vcxproj|solutionrelative:bits\\ex10_arrSequentialBInary.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2443DD55-8051-4DD4-AC6C-ED6A6300168C}|bits\\bits.vcxproj|C:\\D\\University\\C\\bits\\bits\\ex2_FiveBinaryPresence.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{2443DD55-8051-4DD4-AC6C-ED6A6300168C}|bits\\bits.vcxproj|solutionrelative:bits\\ex2_FiveBinaryPresence.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2443DD55-8051-4DD4-AC6C-ED6A6300168C}|bits\\bits.vcxproj|C:\\D\\University\\C\\bits\\bits\\ex3_EightBitAlign.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{2443DD55-8051-4DD4-AC6C-ED6A6300168C}|bits\\bits.vcxproj|solutionrelative:bits\\ex3_EightBitAlign.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2443DD55-8051-4DD4-AC6C-ED6A6300168C}|bits\\bits.vcxproj|C:\\D\\University\\C\\bits\\bits\\ex4_SymetricalBits.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{2443DD55-8051-4DD4-AC6C-ED6A6300168C}|bits\\bits.vcxproj|solutionrelative:bits\\ex4_SymetricalBits.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{2443DD55-8051-4DD4-AC6C-ED6A6300168C}|bits\\bits.vcxproj|C:\\D\\University\\C\\bits\\bits\\ex5_arrOnesBits.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2443DD55-8051-4DD4-AC6C-ED6A6300168C}|bits\\bits.vcxproj|solutionrelative:bits\\ex5_arrOnesBits.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2443DD55-8051-4DD4-AC6C-ED6A6300168C}|bits\\bits.vcxproj|C:\\D\\University\\C\\bits\\bits\\bits.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -29,22 +13,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{2443DD55-8051-4DD4-AC6C-ED6A6300168C}|bits\\bits.vcxproj|C:\\D\\University\\C\\bits\\bits\\ex1_OnesInRange.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{2443DD55-8051-4DD4-AC6C-ED6A6300168C}|bits\\bits.vcxproj|solutionrelative:bits\\ex1_OnesInRange.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2443DD55-8051-4DD4-AC6C-ED6A6300168C}|bits\\bits.vcxproj|C:\\D\\University\\C\\bits\\bits\\ex8_arrSymetricalBits.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{2443DD55-8051-4DD4-AC6C-ED6A6300168C}|bits\\bits.vcxproj|solutionrelative:bits\\ex8_arrSymetricalBits.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2443DD55-8051-4DD4-AC6C-ED6A6300168C}|bits\\bits.vcxproj|C:\\D\\University\\C\\bits\\bits\\ex7_arrEightBitsAlign.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{2443DD55-8051-4DD4-AC6C-ED6A6300168C}|bits\\bits.vcxproj|solutionrelative:bits\\ex7_arrEightBitsAlign.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2443DD55-8051-4DD4-AC6C-ED6A6300168C}|bits\\bits.vcxproj|C:\\D\\University\\C\\bits\\bits\\ex6_arrFiveBinaryPresence.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{2443DD55-8051-4DD4-AC6C-ED6A6300168C}|bits\\bits.vcxproj|solutionrelative:bits\\ex6_arrFiveBinaryPresence.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2443DD55-8051-4DD4-AC6C-ED6A6300168C}|bits\\bits.vcxproj|C:\\D\\University\\C\\bits\\bits\\ex5_arrOnesBits.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{2443DD55-8051-4DD4-AC6C-ED6A6300168C}|bits\\bits.vcxproj|solutionrelative:bits\\ex5_arrOnesBits.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -63,84 +31,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ex10_arrSequentialBInary.c",
-              "DocumentMoniker": "C:\\D\\University\\C\\bits\\bits\\ex10_arrSequentialBInary.c",
-              "RelativeDocumentMoniker": "bits\\ex10_arrSequentialBInary.c",
-              "ToolTip": "C:\\D\\University\\C\\bits\\bits\\ex10_arrSequentialBInary.c",
-              "RelativeToolTip": "bits\\ex10_arrSequentialBInary.c",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAAB8AAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-02-18T18:30:18.865Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ex4_SymetricalBits.c",
-              "DocumentMoniker": "C:\\D\\University\\C\\bits\\bits\\ex4_SymetricalBits.c",
-              "RelativeDocumentMoniker": "bits\\ex4_SymetricalBits.c",
-              "ToolTip": "C:\\D\\University\\C\\bits\\bits\\ex4_SymetricalBits.c",
-              "RelativeToolTip": "bits\\ex4_SymetricalBits.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-02-17T23:01:30.035Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ex3_EightBitAlign.c",
-              "DocumentMoniker": "C:\\D\\University\\C\\bits\\bits\\ex3_EightBitAlign.c",
-              "RelativeDocumentMoniker": "bits\\ex3_EightBitAlign.c",
-              "ToolTip": "C:\\D\\University\\C\\bits\\bits\\ex3_EightBitAlign.c",
-              "RelativeToolTip": "bits\\ex3_EightBitAlign.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-02-17T23:01:29.399Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ex2_FiveBinaryPresence.c",
-              "DocumentMoniker": "C:\\D\\University\\C\\bits\\bits\\ex2_FiveBinaryPresence.c",
-              "RelativeDocumentMoniker": "bits\\ex2_FiveBinaryPresence.c",
-              "ToolTip": "C:\\D\\University\\C\\bits\\bits\\ex2_FiveBinaryPresence.c",
-              "RelativeToolTip": "bits\\ex2_FiveBinaryPresence.c",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAkAAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-02-17T23:01:28.298Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ex9_groupByOnesCount.c",
-              "DocumentMoniker": "C:\\D\\University\\C\\bits\\bits\\ex9_groupByOnesCount.c",
-              "RelativeDocumentMoniker": "bits\\ex9_groupByOnesCount.c",
-              "ToolTip": "C:\\D\\University\\C\\bits\\bits\\ex9_groupByOnesCount.c",
-              "RelativeToolTip": "bits\\ex9_groupByOnesCount.c",
-              "ViewState": "AQIAABQAAAAAAAAAAAAcwB0AAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-02-24T14:36:58.7Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "bits.c",
               "DocumentMoniker": "C:\\D\\University\\C\\bits\\bits\\bits.c",
               "RelativeDocumentMoniker": "bits\\bits.c",
               "ToolTip": "C:\\D\\University\\C\\bits\\bits\\bits.c",
               "RelativeToolTip": "bits\\bits.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAALAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-02-17T18:40:49.285Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
+              "Title": "ex5_arrOnesBits.c",
+              "DocumentMoniker": "C:\\D\\University\\C\\bits\\bits\\ex5_arrOnesBits.c",
+              "RelativeDocumentMoniker": "bits\\ex5_arrOnesBits.c",
+              "ToolTip": "C:\\D\\University\\C\\bits\\bits\\ex5_arrOnesBits.c",
+              "RelativeToolTip": "bits\\ex5_arrOnesBits.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-02-18T16:39:32.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ex1_OnesInRange.c",
               "DocumentMoniker": "C:\\D\\University\\C\\bits\\bits\\ex1_OnesInRange.c",
               "RelativeDocumentMoniker": "bits\\ex1_OnesInRange.c",
@@ -150,54 +66,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-02-17T23:01:27.474Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ex7_arrEightBitsAlign.c",
-              "DocumentMoniker": "C:\\D\\University\\C\\bits\\bits\\ex7_arrEightBitsAlign.c",
-              "RelativeDocumentMoniker": "bits\\ex7_arrEightBitsAlign.c",
-              "ToolTip": "C:\\D\\University\\C\\bits\\bits\\ex7_arrEightBitsAlign.c",
-              "RelativeToolTip": "bits\\ex7_arrEightBitsAlign.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-02-18T17:48:53.151Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ex8_arrSymetricalBits.c",
-              "DocumentMoniker": "C:\\D\\University\\C\\bits\\bits\\ex8_arrSymetricalBits.c",
-              "RelativeDocumentMoniker": "bits\\ex8_arrSymetricalBits.c",
-              "ToolTip": "C:\\D\\University\\C\\bits\\bits\\ex8_arrSymetricalBits.c",
-              "RelativeToolTip": "bits\\ex8_arrSymetricalBits.c",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAACAAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-02-18T17:54:18.574Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ex6_arrFiveBinaryPresence.c",
-              "DocumentMoniker": "C:\\D\\University\\C\\bits\\bits\\ex6_arrFiveBinaryPresence.c",
-              "RelativeDocumentMoniker": "bits\\ex6_arrFiveBinaryPresence.c",
-              "ToolTip": "C:\\D\\University\\C\\bits\\bits\\ex6_arrFiveBinaryPresence.c",
-              "RelativeToolTip": "bits\\ex6_arrFiveBinaryPresence.c",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-02-18T16:57:56.453Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ex5_arrOnesBits.c",
-              "DocumentMoniker": "C:\\D\\University\\C\\bits\\bits\\ex5_arrOnesBits.c",
-              "RelativeDocumentMoniker": "bits\\ex5_arrOnesBits.c",
-              "ToolTip": "C:\\D\\University\\C\\bits\\bits\\ex5_arrOnesBits.c",
-              "RelativeToolTip": "bits\\ex5_arrOnesBits.c",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-02-18T16:39:32.739Z"
             }
           ]
         }
